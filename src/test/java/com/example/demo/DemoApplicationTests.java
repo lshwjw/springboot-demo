@@ -12,7 +12,7 @@ public class DemoApplicationTests {
 	@Test
 	public void contextLoads() {
 		while (true) {
-			System.out.println(new String("a"));
+			System.out.println(new String("right"));
 			new Thread().start();
 		}
 	}
