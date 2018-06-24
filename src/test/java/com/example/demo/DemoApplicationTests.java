@@ -13,6 +13,7 @@ public class DemoApplicationTests {
 	public void contextLoads() {
 		while (true) {
 			System.out.println(new String("left"));
+			System.out.println(new String("right"));
 			new Thread().start();
 		}
 	}
