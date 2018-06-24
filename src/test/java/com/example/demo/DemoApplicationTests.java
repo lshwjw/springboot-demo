@@ -14,6 +14,7 @@ public class DemoApplicationTests {
 		while (true) {
 			System.out.println(new String("right"));
 			System.out.println(new String("left"));
+			System.out.println(new String("right"));
 			new Thread().start();
 		}
 	}
