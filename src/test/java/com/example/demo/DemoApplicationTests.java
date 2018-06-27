@@ -15,6 +15,7 @@ public class DemoApplicationTests {
 			System.out.println(new String("left"));
 			System.out.println(new String("right"));
 			System.out.println(new String("center"));
+			System.out.println(new String("idea edit hot_fix"));
 			new Thread().start();
 		}
 	}
