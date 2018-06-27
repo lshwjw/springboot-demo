@@ -19,6 +19,7 @@ public class DemoApplicationTests {
 			System.out.println(new String("idea"));
 			System.out.println(new String("game2"));
 			System.out.println(new String("game"));
+			System.out.println(new String("test conflict"));
 			System.out.println(new String("test conflict2"));
 			new Thread().start();
 		}
