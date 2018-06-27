@@ -18,6 +18,7 @@ public class DemoApplicationTests {
 			System.out.println(new String("center"));
 			System.out.println(new String("idea"));
 			System.out.println(new String("game2"));
+			System.out.println(new String("game"));
 			new Thread().start();
 		}
 	}
